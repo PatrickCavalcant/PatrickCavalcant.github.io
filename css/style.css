@@ -110,7 +110,7 @@ main {width: 100%;}
     width: 200px;
     display: table;
     margin: 0 auto; 
-    border-radius: 50%;
+    border-radius:50%;
 }
 
 .card-body { padding: 1em; }
@@ -121,15 +121,6 @@ main {width: 100%;}
 
 .card-body p + p { margin-top: .5em;}
 
-.card-button {
-    width: 100%;
-    border-bottom-left-radius: 3px;
-    border-bottom-right-radius: 3px;
-    padding: 1em;
-    background-color: #141A28;
-    display: flex;
-    justify-content: center;
-}
 
 .card-button button {
     width: 250px;
